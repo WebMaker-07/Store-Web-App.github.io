@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mini Project 2
+          Team Payaman Mini Project 2 (Pat, Mike, Prof)
         </a>
       </header>
     </div>
