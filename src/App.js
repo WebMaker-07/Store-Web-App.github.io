@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Patz
+          Patz De Lumen
         </a>
       </header>
     </div>
