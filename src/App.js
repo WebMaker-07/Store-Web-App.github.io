@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mini Project 2
+          Patz
         </a>
       </header>
     </div>
