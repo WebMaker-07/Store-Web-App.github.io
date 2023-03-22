@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mini Project 2
+          Mini Project 2 mike fillar
         </a>
       </header>
     </div>
